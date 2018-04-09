@@ -2,7 +2,7 @@
 
 # Author: Berna93 
 # Github: https://github.com/Berna93
-# Shell script developed for update and maintenance of Ubuntu-based distros via APT 
+# Shell script developed for automated update and maintenance of Ubuntu-based distros via APT 
 # Inspired on a script made by @bocharsky-bw (https://gist.github.com/bocharsky-bw/fc692baacc07f0e430d5) 
 # For further information on commands, see Linux Die (https://linux.die.net/man/)
 
